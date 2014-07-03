@@ -1,0 +1,11 @@
+---
+slug: :mikutter-plugin-tab
+depends:
+  mikutter: 3.0.2
+  plugin:
+  - gui
+  - command
+version: '0.0.1'
+author: moguno
+name: プラグインタブ
+description: インストールされているプラグインの情報を表示するタブを追加します。
